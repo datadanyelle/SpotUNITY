@@ -34,4 +34,6 @@ The app loads its opportunity data from Google Sheets, so an internet connection
 
 ## Team
 
-Danyelle Foster and Remi
+Danyelle Foster and Remi Flanz
+Wayne State University
+AWS BuilderWars Hackathon 2026
