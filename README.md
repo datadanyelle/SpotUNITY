@@ -21,7 +21,7 @@ Python, Streamlit, pandas, and Google Sheets.
 2. Install the dependencies:
 
    ```bash
-   pip install -r Requirements.txt
+   pip install -r requirements.txt
    ```
 
 3. Start the app:
